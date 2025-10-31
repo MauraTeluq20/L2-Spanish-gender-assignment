@@ -1,10 +1,11 @@
 # L2-Spanish-gender-assignment
-This repository contains the Python and R code for the analyses presented in the article in Borealis.
+This repository contains the Python (3.12.7) and R (4.4.2) code for the analyses presented in our article submitted to the scientific journal Borealis.
+
 The code included in this repository was created by Maura Cruz Enríquez, professor at Université TÉLUQ and the principal researcher of the project. Although not a professional programmer, she has formal training in computer science courses at the Université de Montréal (Introduction to Programming: C, C++, Java; Web Programming), and has also completed independent training in Python, Natural Language Processing, and statistics with R through platforms such as Codecademy and Udemy.
 
 The scripts were developed with the assistance of programming-support tools such as Copilot and ChatGPT, which were used to refine syntax, check functions, and ensure reproducibility.
 
-All analyses were conducted using RStudio (for R scripts) and Spyder (for Python scripts).
+All analyses were conducted using Spyder (for Python scripts) and RStudio (for R scripts).
 
 Please be aware that the name of the Excel file containing the data may vary from one .py script to another. Each researcher is free to name their data file as they prefer. Make sure to adjust the file path or name accordingly when running the code.
 
