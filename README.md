@@ -1,4 +1,4 @@
-# L2-Spanish-gender-assignment
+# Grammatical-gender-assignment-in-L2-Spanish
 This repository contains the Python (3.12.7) and R (4.4.2) code for the analyses presented in our article submitted to the scientific journal Borealis.
 
 The code included in this repository was created by Maura Cruz Enríquez, professor at Université TÉLUQ and the principal researcher of the project. Although not a professional programmer, she has formal training in computer science courses at the Université de Montréal (Introduction to Programming: C, C++, Java; Web Programming), and has also completed independent training in Python, Natural Language Processing, and statistics with R through platforms such as Codecademy and Udemy.
